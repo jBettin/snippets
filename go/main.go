@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	url := "https://mood-tracker.25775lkdbeg1.eu-de.codeengine.appdomain.cloud" 
+	url := "https://irgendneurl.de" //url eingeben
 	start := time.Now()
 
 	for i := 0; i < 100000; i++ { // 100000 Testanfragen
